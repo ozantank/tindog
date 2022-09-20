@@ -1,6 +1,6 @@
 # Responsive Website 
 
-This is my first responsive website project for different viewports. It has different futures(i.e. active states, functional buttons etc).
+This is my first responsive website project for different viewports (also including: active states, functional buttons etc).
 
 ## Table of contents
 
